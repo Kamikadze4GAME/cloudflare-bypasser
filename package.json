@@ -1,0 +1,22 @@
+{
+  "name": "cloudflare-bypasser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "author": "Ostap Skryshevskyi",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "extend": "^3.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "prettyjson": "^1.2.1"
+  }
+}
