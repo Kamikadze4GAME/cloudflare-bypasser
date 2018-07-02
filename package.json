@@ -6,6 +6,9 @@
   "scripts": {},
   "author": "Ostap Skryshevskyi",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
   "dependencies": {
     "bluebird": "^3.5.1",
     "extend": "^3.0.1",
