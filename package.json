@@ -11,10 +11,11 @@
   },
   "dependencies": {
     "bluebird": "^3.5.1",
+    "clone": "^2.1.2",
     "extend": "^3.0.1",
+    "prettyjson": "^1.2.1",
     "request": "^2.85.0",
-    "request-promise": "^4.2.2",
-    "prettyjson": "^1.2.1"
+    "request-promise": "^4.2.2"
   },
   "devDependencies": {
     "chai": "^4.1.2",
